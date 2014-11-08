@@ -1,4 +1,4 @@
-haskell-c-2048
-==============
+Haskell-C-2048
 
-My first test repository
+My first test repository.
+
